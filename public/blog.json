@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/DKMY33m/1078011-ON5-YSR0.jpg",
+      "title": "The Adventure Begins",
+      "author": "John Doe",
+      "image": "https://i.ibb.co/qpLHdwH/15112.jpg",
+      "posted_date": "2024-05-14",
+      "reading_time": 20,
+      "hashtags": ["adventure", "journey", "exciting"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/DKMY33m/1078011-ON5-YSR0.jpg",
+      "title": "Secrets of the Cosmos",
+      "author": "Jane Smith",
+      "image": "https://i.ibb.co/qpLHdwH/15112.jpg",
+      "posted_date": "2024-05-13",
+      "reading_time": 30,
+      "hashtags": ["space", "science", "universe"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/DKMY33m/1078011-ON5-YSR0.jpg",
+      "title": "Cooking Mastery",
+      "author": "Alice Johnson",
+      "image": "https://i.ibb.co/qpLHdwH/15112.jpg",
+      "posted_date": "2024-05-12",
+      "reading_time": 25,
+      "hashtags": ["cooking", "recipes", "chef"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/DKMY33m/1078011-ON5-YSR0.jpg",
+      "title": "The Art of Painting",
+      "author": "Michael Brown",
+      "image": "https://i.ibb.co/qpLHdwH/15112.jpg",
+      "posted_date": "2024-05-11",
+      "reading_time": 40,
+      "hashtags": ["art", "painting", "creativity"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/DKMY33m/1078011-ON5-YSR0.jpg",
+      "title": "Thrilling Suspense",
+      "author": "Emily White",
+      "image": "https://i.ibb.co/qpLHdwH/15112.jpg",
+      "posted_date": "2024-05-10",
+      "reading_time": 35,
+      "hashtags": ["suspense", "mystery", "thriller"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/DKMY33m/1078011-ON5-YSR0.jpg",
+      "title": "Mindfulness Meditation",
+      "author": "David Green",
+      "image": "https://i.ibb.co/qpLHdwH/15112.jpg",
+      "posted_date": "2024-05-09",
+      "reading_time": 15,
+      "hashtags": ["meditation", "mindfulness", "wellness"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/DKMY33m/1078011-ON5-YSR0.jpg",
+      "title": "Financial Freedom",
+      "author": "Sarah Lee",
+      "image": "https://i.ibb.co/qpLHdwH/15112.jpg",
+      "posted_date": "2024-05-08",
+      "reading_time": 45,
+      "hashtags": ["finance", "investing", "money"]
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/DKMY33m/1078011-ON5-YSR0.jpg",
+      "title": "Historical Insights",
+      "author": "Robert Johnson",
+      "image": "https://i.ibb.co/qpLHdwH/15112.jpg",
+      "posted_date": "2024-05-07",
+      "reading_time": 55,
+      "hashtags": ["history", "culture", "knowledge"]
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/DKMY33m/1078011-ON5-YSR0.jpg",
+      "title": "Healthy Living Guide",
+      "author": "Sophia Miller",
+      "image": "https://i.ibb.co/qpLHdwH/15112.jpg",
+      "posted_date": "2024-05-06",
+      "reading_time": 25,
+      "hashtags": ["health", "fitness", "wellness"]
+    }
+  ]
+  
