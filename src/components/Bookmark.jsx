@@ -1,10 +1,13 @@
 import PropTypes from 'prop-types';
 
-const Bookmark = ({bookmark}) => {
-    const {title} = bookmark
+const Bookmark = ({bookmark, markAsRead}) => {
+    const {title, id} = bookmark
     return (
         <div className='bg-slate-200 p-4 m-4 rounded-xl'>
-            <h2>{title}</h2>
+            <div className='flex justify-between'>
+                <h2>{title}</h2>
+                <button onClick={()=>markAsRead(id)} className='btn btn-outline btn-error'>Delete</button>
+                </div>
         </div>
     );
 };
@@ -12,5 +15,6 @@ const Bookmark = ({bookmark}) => {
 export default Bookmark;
 
 Bookmark.propTypes ={
-    bookmark: PropTypes.object
+    bookmark: PropTypes.object,
+    markAsRead: PropTypes.func
 }
